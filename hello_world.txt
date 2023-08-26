@@ -1,1 +1,3 @@
 Hi, My name is Chandan and i am learning how to use git commit.
+I am trying to add few lines in this "hello_world.txt" file. 
+I will also push and commit the git.
